@@ -5,5 +5,6 @@ This is the basic version of my personal website which i hope to update by time.
 'https://yoku.its.me' also redirect to 能.its.moe
 
 <hr>
-a big thanks to https://its.moe for making my little project possible!. :D
-inspired by https://yoru.moe
+a big thanks to https://its.moe for making my little project possible!
+inspired by https://yoru.moe :D
+
