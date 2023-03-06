@@ -6,3 +6,4 @@ This is the basic version of my personal website which i hope to update by time.
 
 <hr>
 a big thanks to https://its.moe for making my little project possible! :D
+inspired by https://yoru.moe
